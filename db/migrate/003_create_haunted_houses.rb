@@ -15,4 +15,8 @@ class CreateHauntedHouses < ActiveRecord::Migration[5.1]
     end
   end
   
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> 107a3fa74a19f6d2a0ffb6433e73c30d007c5e22
